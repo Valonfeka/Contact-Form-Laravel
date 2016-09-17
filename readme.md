@@ -1,3 +1,46 @@
+
+Author:Valon Feka
+
+Contry:Kosovo
+
+My description Laravel 5.3
+
+Contact Form 
+
+
+Step 1 download
+
+
+With cmd in folder when is project
+
+Step 2 composer update
+
+
+Step 3 php artisan serve
+
+
+Configure Gmail 
+
+
+https://myaccount.google.com/security
+
+Allow less secure apps: From of in on
+
+
+
+
+
+
+
+
+gutluck
+
+
+
+
+
+
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
