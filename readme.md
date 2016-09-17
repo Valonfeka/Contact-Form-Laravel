@@ -8,18 +8,22 @@ My description Laravel 5.3
 Contact Form 
 
 
-Step 1 download
+##Step 1 download
 
 
-With cmd in folder when is project
+<b>With cmd in folder when is project</b>
 
-Step 2 composer update
+##Step 2
+
+composer update
 
 
-Step 3 php artisan serve
+##Step 3 
+
+php artisan serve
 
 
-Configure Gmail 
+##Configure Gmail 
 
 
 https://myaccount.google.com/security
