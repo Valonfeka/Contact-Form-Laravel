@@ -1,8 +1,6 @@
-Valon Feka
-
-valon.fek@gmail.com
-
-Contry:Kosovo
+Valon Feka<br>
+valon.fek@gmail.com<br>
+Contry:Kosovo<br>
 
 My description Laravel 5.3
 
